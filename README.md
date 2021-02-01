@@ -7,3 +7,10 @@ I will solve JavaScript related algorithms in this repository.
 ```bash
 $ git clone https://github.com/ercumentlacin/JavaScript-Algorithms-.git
 ```
+
+## Completed List
+
+| Name                                                 | Description                                                                                                                                                                                                           |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [01- isConsecutive](./tree/main/01-%20isConsecutive) | a function that will return true if a given string (divided and grouped into a size) will contain a set of consecutive numbers (regardless of orientation: whether ascending or descending), otherwise, return false. |
+| coming soon                                          | coming soon                                                                                                                                                                                                           |
