@@ -1,6 +1,6 @@
 const operation = (a, b, op) => {
-  var num1 = parseInt(a);
-  var num2 = parseInt(b);
+  let num1 = parseInt(a);
+  let num2 = parseInt(b);
   if (op === "add") {
     return num1 + num2;
   } else if (op === "divide") {
